@@ -72,10 +72,10 @@ Set the display width of the bar directly (without animation).
 Change the position of bar.
 
 ### setFixedToCamera(boolean)
-Set/unset the bar fixed to camera.
+Set/unset the hpbar fixed to camera.
 
 ### setToContainer(container)
-Set/unset the bar to cotainer.
+Set the hpbar to container.
 
 ### destroy()
 Destroy the hpbar object.
